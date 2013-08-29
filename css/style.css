@@ -14,11 +14,6 @@ html {
   height: 100%;
 }
 
-* { 
-  margin: 0;
-  padding: 0;
-}
-
 /* tell the browser to render HTML 5 elements as block */
 article, aside, figure, footer, header, hgroup, nav, section { 
   display:block;
@@ -31,7 +26,7 @@ body {
 }
 
 p { 
-  padding: 0 0 20px 0;
+  padding: 0 0 20px 20px;
   line-height: 1.7em;
 }
 
@@ -42,30 +37,30 @@ img {
 h1, h2, h3, h4, h5, h6 { 
   color: #222;
   letter-spacing: 0em;
-  padding: 0 0 5px 0;
+  padding: 0 20px 5px 10px;
 }
 
 h1, h2, h3 { 
   font: normal 400% "Jenna Sue", arial, sans-serif;
   margin: 0;
-  padding: 16px 0 5px 0;
+  padding: 16px 20px 5px 10px;
   color: #222;
 }
 
 h2 { 
   font-size: 260%;
-  padding: 9px 0 5px 0;
+  padding: 9px 0 5px 10px;
   color: #F67400;
 }
 
 h3 { 
   font-size: 240%;
-  padding: 5px 0 0 0;
+  padding: 5px 0 0 10px;
 }
 
 h4, h6 { 
   color: #F67400;
-  padding: 0 0 5px 0;
+  padding: 0 0 5px 10px;
   font: normal 130% arial, sans-serif;
 }
 
@@ -73,7 +68,7 @@ h5, h6 {
   color: #555;
   font: italic 95% arial, sans-serif;
   letter-spacing: normal;
-  padding: 0 0 15px 0;
+  padding: 0 0 15px 10px;
 }
 
 a, a:hover { 
@@ -145,12 +140,12 @@ ol li {
 
 header { 
   margin: 20px 0 25px 0;
-  height: 150px;
+  height: 120px;
 }
 
 #logo { 
   width: 905px;
-  height: 150px;
+  height: 120px;
   background: transparent;
   color: #888;
   padding: 0 0 0 25px;
@@ -202,35 +197,34 @@ nav {
 #site_content { 
   width: 930px;
   overflow: hidden;
-  margin: 20px auto;
   background: #DDD;
   color: #555;
 } 
 
-#sidebar_container { 
+/*#sidebar_container { 
   float: right;
   width: 450px;
   padding: 0;
-  height: 450px;
+  height: 450px;*/
 }
 
-#content { 
+#content div{ 
   text-align: left;
-  width: 440px;
-  margin: 0 0 0 0;
+  width: 900px;
+  margin: 20px;
   float: left;
-  padding: 0 20px 20px 20px;
+  padding: 20px;
 }
   
 #content ul { 
-  margin: 2px 0 22px 0px;
+  margin: 20px 0 22px 0px;
 }
 
 #content ul li, .sidebar ul li { 
   list-style-type: none;
   background: url(../images/bullet.png) no-repeat;
   margin: 0 0 0 0; 
-  padding: 0 0 4px 28px;
+  padding: 0 20px 4px 28px;
   line-height: 1.5em;
 }
 

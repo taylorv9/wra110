@@ -492,7 +492,7 @@ ul ul span.sf-arrow {
 
 /* Theming the menu */
 ul#nav { 
-  float: right;
+  float: left;
 }
 
 ul#nav ul { 

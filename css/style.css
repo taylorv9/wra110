@@ -73,7 +73,7 @@ h5, h6 {
 
 a, a:hover { 
   outline: none;
-  text-decoration: underline;
+  text-decoration: none;
   color: #179625;
 }
 
@@ -165,18 +165,20 @@ header {
   float: left;
 }
 
-#logo_text h1, #logo_text h1 a, #logo_text h1 a:hover { 
+#logo_text h1, #logo_text h1 a:hover { 
   padding: 0;
   color: #222;
   text-decoration: none;
 }
 
-#main #logo #logo_text h1 a .logo_colour, .logo_colour { 
+.logo_colour { 
   color: #179625;
+  text-decoration: none;
 }
 
-#logo_text a:hover .logo_colour { 
+#logo_text h1 a:hover .logo_colour { 
   color: #FFF;
+  text-decoration: none;
 }
 
 #logo_text h2 { 
@@ -277,11 +279,11 @@ footer p {
 
 footer a { 
   color: #222;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 footer a:hover { 
-  color: #222;
+  color: #179625;
   text-shadow: none;
   text-decoration: none;
 }

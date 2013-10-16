@@ -25,7 +25,7 @@ $.fn.sooperfish = function(op) {
     sooperEasingHide = 'linear';
   };  
   sf.defaults = {
-    multiColumn  : true,
+    multiColumn  : false,
     dualColumn  : 99, //if a submenu has at least this many items it will be divided in 2 columns
     tripleColumn  : 150, //if a submenu has at least this many items it will be divided in 3 columns
     hoverClass  : 'sfHover',

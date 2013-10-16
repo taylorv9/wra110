@@ -26,8 +26,8 @@ $.fn.sooperfish = function(op) {
   };  
   sf.defaults = {
     multiColumn  : true,
-    dualColumn  : 6, //if a submenu has at least this many items it will be divided in 2 columns
-    tripleColumn  : 12, //if a submenu has at least this many items it will be divided in 3 columns
+    dualColumn  : 99, //if a submenu has at least this many items it will be divided in 2 columns
+    tripleColumn  : 150, //if a submenu has at least this many items it will be divided in 3 columns
     hoverClass  : 'sfHover',
     delay    : 500, //make sure menus only disappear when intended, 500ms is advised by Jacob Nielsen
     animationShow  : {height:'show'},

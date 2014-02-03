@@ -1,0 +1,126 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>WRA 110 - Writing: Science and Technology </title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+</head>
+
+<body>
+  <div id="main">
+     <header>
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1 class="logo_colour"><a href="index.html">WRA 110</a></h1>
+          <h2>Writing: Science and Technology</h2>
+        </div>
+      </div>
+<nav>
+        <ul class="sf-menu" id="nav">
+          <li class="selected"><a href="index.html">Home</a></li>
+          <li><a href="policies.html">Course Policies</a></li>    
+          <li><a href="#">Schedules</a>
+            <ul>
+              <li><a href="743schedule.html">Monday Schedule</a></li>
+              <li><a href="744schedule.html">Wednesday Schedule</a></li>
+            </ul>
+          </li>
+          <li><a href="#">Assignment Sheets</a>
+            <ul>
+              <li><a href="110-1.pdf">Lived Experiences Project</a></li>
+              <!--<li><a href="110-2.pdf">Cultural Analysis Proposal</a></li>
+              <li><a href="cultural_analysis.zip">Cultural Analysis Web Version Template</a></li>
+              <li><a href="110-3.pdf">Formal Research Project</a></li>
+              <li><a href="110-4.pdf">Multimedia Remix Project</a></li>
+              <li><a href="proposal.pdf">Remix Project Proposal</a></li>
+              <li><a href="110-5.pdf">Course Retrospective Project</a></li>-->
+            </ul>  
+          </li>
+          <li><a href="#">Resources</a>
+            <ul>
+              <li><a href="#">PowerPoints</a>
+                <ul>
+                  <li><a href="intro.pptx">Intro PowerPoint</a></li>
+                </ul> 
+              </li>
+              <li><a href="#">Prezis</a>
+              	<ul>
+            
+              		<li><a href="http://prezi.com/yktn5fsp4u3r/?utm_campaign=share&utm_medium=copy">Intro to Github</a></li>
+              		<!--<li><a href="http://prezi.com/0j7c8qitsgz9/?utm_campaign=share&utm_medium=copy">Visual Rhetoric</a></li>-->
+              	</ul>
+              </li>
+              <li><a href="#">Readings</a>
+              	<ul>
+              		<!--<li><a href="emig.pdf">Emig</a></li>
+              		<li><a href="brummett.pdf">Brummett</a></li>-->
+              	</ul>
+              </li>	
+            </ul>
+          </li>
+          <li><a href="#">Activities</a>
+            <ul>
+              <li><a href="proj1draftact.pdf">Lived Experiences Drafting Activity</a></li>
+              <!--<li><a href="activity1.html">In-Class Activity 1</a></li>
+              <li><a href="proj2draftact.pdf">Cultural Analysis Proposal Drafting Activity</a></li>
+              <li><a href="activity2.html">In-Class Activity 2</a></li>
+              <li><a href="proj3draftact.pdf">Formal Research Report Drafting Activity</a></li>
+              <li><a href="libact.doc">Library Activity</a></li>
+              <li><a href="activity3.htm">In-Class Activity 3</a>
+              <li><a href="worksheet.doc">Documentary Worksheet</a></li>-->
+            </ul>
+          </li>
+          <li><a href="links.html">Links</a></li>
+        </ul> 
+      </nav>
+    </header>
+    <div id="site_content">
+      <!--<div id="sidebar_container">
+        <div class="gallery">
+          <ul class="images">
+            <li class="show"><img width="450" height="450" src="images/1.jpg" alt="photo_one" /></li>
+            <li><img width="450" height="450" src="images/2.jpg" alt="photo_two" /></li>
+          </ul>
+        </div>
+      </div> -->
+      <div id="content">
+        <h1>Welcome to the course</h1>
+        <p><a href="wra110a.pdf"> WRA 110 - 743 Syllabus</a>
+        <br /><a href="wra110b.pdf">WRA 110 - 744 Syllabus</a></p>
+        <h3>Lived Experiences Project</h3>
+        <p> In today’s culture, technology is the norm. It’s incorporated into our everyday lives in multiple ways and has become a cornerstone in society. From a young age, children are taught how to operate various devices especially when computers become integrated into school and are needed to complete assignments. The same went for me as I went through elementary and middle school. I always had a knack for easily learning and operating different computer programs, even if at first that simply meant functioning Microsoft Word or simple computer games. By the age of ten, I had switched roles from student to teacher as I was left to help my poor technology deprived parents attempt to comprehend the constantly changing gadgets and gizmos that are necessary for basic living.</p> 
+<p>Along with an inherit ability to take the tech world by storm, I have always had a passion for writing. I pursued it when I entered high school and took a journalism course. It was then that I was given the opportunity to integrate my love for computers into my day to day life. I become a page editor for the school newspaper which meant I was given the responsibility to design the layout for a page every week. I had no idea at the time what kind of adventure I was embarking on, but looking back it was one that shaped the person I am today and many of the decisions I’ve made for my future. It is the sole reason that I am now a student at Michigan State University.</p>
+<p>The journalism teacher and newspaper adviser was a harsh, bitter man named Jeff Nardone. Mr. Nardone was the sole force that drove ‘The Tower’, our prestigious nearly 100 year old newspaper. He was involved with every aspect from start to finish and he was the type of man that you simultaneously loved and hated. He was blunt and opinionated and could drive you crazy over the littlest details, but a compliment from him could make your day if not week. The only redeeming factor that kept me sane during his constant rants and sassy comments was the fact that he was the biggest Spartan fan I’ve had the pleasure of knowing. He bleed green from birth and could not be prouder of it. Working with Mr. Nardone for the three years that he was my teacher was a pain to say the least yet his teachings still influence me in ways no other instructor ever has.</p>
+<p>In retrospect, page editing sounds like a simple task. Design the layout, make it happen on InDesign and boom you’re good to go. Page editing for ‘The Tower’ though was a different story. Mr. Nardone had a theory that kids work better when fed and let me tell you, we all thoroughly appreciated that mentality. Everyday a different staff member had to bring in a meal for the members that put in the extra effort to come after school. This made a normally serious and strict work-like atmosphere into a truly enjoyable social experience that was looked forward to opposed to being dreaded. Every day spent in ‘The Tower’ room, we had “family dinner” where all 6 page editors would eat, share design ideas, and catch up on each other’s lives.</p>
+<p>‘The Tower’ became a safe haven for me to spend time with friends outside of my normal group and do something that I truly enjoyed, play around with Adobe programs and design all sorts of new and creative graphics. Bouncing ideas off my fellow classmates made all of our designs blossom in ways that never could have happened had we not had the ability to bond in such a unique atmosphere. My love for computers also bloomed as I became more experienced with the programs we used. Soon we all got sick of the basic tools and explored the programs in depth. The more we experimented, the better our designs became and the closer our relationships did as well. We all shared tips of the trade and spent far more time in that computer lab then was ever intended, just swapping ideas and exhausting dozens of techniques to bring out the best design possible.</p>
+<p>Every year for midterms, ‘The Tower’ takes a week off in order to give us staffers the necessary amount of time to study. Coming back from the semester break, all of the page editors were more than ready to hop back on the horse and get back in the design game. It was then though, that our time as ‘Tower’ staffers took a turn no one had expected. Mr. Nardone was diagnosed with lymphoma. Our rough-and-tumble, take no crap, always the tough guy mentor and adviser was now sick with a disease that not even he could completely handle.</p>
+<p>As the year continued, Mr. Nardone, or Nard as we lovingly nicknamed him, began his battle with cancer. It was evident over time the struggles he was facing through chemo and constant doctor’s appointments. The co-Editor in Chiefs slowly began to take over more and more responsibility as Nard’s absences increased and his focus changed from teaching to spending the time he had left with his twin teenage sons and wife, a fellow teacher at my high school. Our designs stayed consistent, but the air in ‘The Tower’ room changed. The previously happy-go-lucky environment hinged on daily health updates; good news meant celebration and an excuse to play music while we worked whereas bad news meant quickly finishing our work so Nard had less to stress about.</p>
+<p>Then, just as suddenly as the cancer came, Nard was in remission. The cumulative sigh of relief that was given by the entire ‘Tower’ staff, particularly the editors, I’m sure could be felt by every member of my school. With only about a month left of school, we picked back up our act with more fervor and excitement than ever before. All of our hard work, stress and immense progress was acknowledged as award season came around and every single page editor placed or at least received an honorable mention. Thanks to Nard’s lessons, I myself placed second in a design contest held by Columbia University, still one of my proudest achievements.</p>
+<p>My second year as a ‘Tower’ staffer was not spent as a page editor due to the amount of time and energy it consumed, but my relationship with my classmates and Nard stayed strong as ever. My closest friend on staff was awarded the position of Editor in Chief and thus became Nard’s right hand girl, responding to his every beck and call. The year passed in a flash full of senior shenanigans and suddenly it was time for graduation. That’s when we got the news we all dreaded; the cancer had returned and it was much, much worse. It was at this time I sat with Nard and had a talk. The talk itself wasn’t anything Earth shaking or revolutionary, but I came out of it knowing that I was destined to follow in his footsteps to Michigan State University.</p>
+<p>On November 3, 2013, Jeff Nardone passed away. Without his convincing to become a page editor and his faith in me that I would be a successful Spartan, I know for a fact that I would not be where I am in my life today. He taught me to love and embrace technology in ways that I never would have otherwise experienced. Yes, I admit, I had more than a couple moments where I just wanted to punch him in the face and quit, but ultimately, his antics changed my life in a way that I unfortunately will never get the opportunity to repay or share with him. My time spent with ‘The Tower’ led me to love being a tech geek and now I completely embrace it whenever possible.</p>
+
+      </div>
+    </div>
+    <footer>
+      <p>Copyright &copy; 2014 <a href="mailto:cdaniels@msu.edu">Dr. Christie Daniels</a> | <a href="http://www.msu.edu">Michigan State University</a></p>
+    </footer>
+  </div>
+  <p>&nbsp;</p>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+  <script type="text/javascript" src="js/image_fade.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('ul.sf-menu').sooperfish();
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,136 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>WRA 110 - Writing: Science and Technology </title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+</head>
+
+<body>
+  <div id="main">
+     <header>
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1 class="logo_colour"><a href="index.html">WRA 110</a></h1>
+          <h2>Writing: Science and Technology</h2>
+        </div>
+      </div>
+<nav>
+        <ul class="sf-menu" id="nav">
+          <li class="selected"><a href="index.html">Home</a></li>
+          <li><a href="policies.html">Course Policies</a></li>    
+          <li><a href="#">Schedules</a>
+            <ul>
+              <li><a href="743schedule.html">Monday Schedule</a></li>
+              <li><a href="744schedule.html">Wednesday Schedule</a></li>
+            </ul>
+          </li>
+          <li><a href="#">Assignment Sheets</a>
+            <ul>
+              <li><a href="110-1.pdf">Lived Experiences Project</a></li>
+              <!--<li><a href="110-2.pdf">Cultural Analysis Proposal</a></li>
+              <li><a href="cultural_analysis.zip">Cultural Analysis Web Version Template</a></li>
+              <li><a href="110-3.pdf">Formal Research Project</a></li>
+              <li><a href="110-4.pdf">Multimedia Remix Project</a></li>
+              <li><a href="proposal.pdf">Remix Project Proposal</a></li>
+              <li><a href="110-5.pdf">Course Retrospective Project</a></li>-->
+            </ul>  
+          </li>
+          <li><a href="#">Resources</a>
+            <ul>
+              <li><a href="#">PowerPoints</a>
+                <ul>
+                  <li><a href="intro.pptx">Intro PowerPoint</a></li>
+                </ul> 
+              </li>
+              <li><a href="#">Prezis</a>
+              	<ul>
+            
+              		<li><a href="http://prezi.com/yktn5fsp4u3r/?utm_campaign=share&utm_medium=copy">Intro to Github</a></li>
+              		<!--<li><a href="http://prezi.com/0j7c8qitsgz9/?utm_campaign=share&utm_medium=copy">Visual Rhetoric</a></li>-->
+              	</ul>
+              </li>
+              <li><a href="#">Readings</a>
+              	<ul>
+              		<!--<li><a href="emig.pdf">Emig</a></li>
+              		<li><a href="brummett.pdf">Brummett</a></li>-->
+              	</ul>
+              </li>	
+            </ul>
+          </li>
+          <li><a href="#">Activities</a>
+            <ul>
+              <li><a href="proj1draftact.pdf">Lived Experiences Drafting Activity</a></li>
+              <!--<li><a href="activity1.html">In-Class Activity 1</a></li>
+              <li><a href="proj2draftact.pdf">Cultural Analysis Proposal Drafting Activity</a></li>
+              <li><a href="activity2.html">In-Class Activity 2</a></li>
+              <li><a href="proj3draftact.pdf">Formal Research Report Drafting Activity</a></li>
+              <li><a href="libact.doc">Library Activity</a></li>
+              <li><a href="activity3.htm">In-Class Activity 3</a>
+              <li><a href="worksheet.doc">Documentary Worksheet</a></li>-->
+            </ul>
+          </li>
+          <li><a href="links.html">Links</a></li>
+        </ul> 
+      </nav>
+    </header>
+    <div id="site_content">
+      <!--<div id="sidebar_container">
+        <div class="gallery">
+          <ul class="images">
+            <li class="show"><img width="450" height="450" src="images/1.jpg" alt="photo_one" /></li>
+            <li><img width="450" height="450" src="images/2.jpg" alt="photo_two" /></li>
+          </ul>
+        </div>
+      </div> -->
+      <div id="content">
+        <h1>Welcome to the course</h1>
+        <p><a href="wra110a.pdf"> WRA 110 - 743 Syllabus</a>
+        <br /><a href="wra110b.pdf">WRA 110 - 744 Syllabus</a></p>
+        <h3>Cultural Analysis Project</h3>
+        <p>The largest social issue faced by college students of this generation is binge drinking and its acceptance in society despite the evident health risks associated with consuming large amounts of alcohol in this fashion. Underage drinking is constantly being glamorized in pop culture. Today’s youths are bombarded with movies, music, and television all glorifying teen alcohol consumption and making it look as though it’s a normal and healthy habit when in reality, it’s quite the opposite.</p>
+<p>Music is constantly coming out that tries to show how “cool” getting drunk is as well as introducing new terminology to the act of drinking. Most recently, the song “Turn Down For What” by Lil Jon and DJ Snake became extremely popular across high school and college campuses spanning the country. The self-proclaimed party anthem caused a wave of popularity in the term “turn up” or “turnt” meaning to consume drugs or alcohol. Another song that has adversely affected today’s youth is Michigan State’s football teams own anthem “Some Type of Way” by Rich Homie Quan.</p>
+<p>Recently an alcohol related scandal rocked the music industry when the popular Canadian-born singer Justin Bieber was arrested. Bieber was detained last month when pulled over by law enforcement officers who found him driving under the influence of alcohol, among other drugs. The inebriated pop-artist was only 19 at the time of the arrest; a full two years under the legal limit of consumption in the United States. Bieber has a gigantic international fan base ranging from children as young as 6 years old, still supporting the artist despite his dangerous and potentially life threating decisions. The twisted nature of his fans not only not caring about his complete disregard for the law, but his disregard for other humans lives, is evidence in itself of the amount of influence pop culture has on its young fans.</p>
+<p>In the film industry one of the latest crazes was the movie Project X, a film supposedly based on a true story that portrayed a completely out of control house party gone very wrong. In the state of Michigan a high school student tried to duplicate the insane party, which he creatively named Project M after himself. Luckily, the cops got wind of the event with enough time to shut it down before it was taken out of hand. Even in innocent seeming movies such the infamous Harry Potter series, the teens aged around 16 are consuming butter beer and getting intoxicated. Simple touches, like seeing the child stars they grew up with drinking, subconsciously condone youths to make drinks such as butter beer themselves. Similarly, alcohol is often shown positively in television targeting youth. Some of the more prevalent shows are 90210 and Gossip Girl, both depicting the lives of upper-middle class high school students who party as much as or more than their legal 20-something counterparts.</p>
+<p>Pop culture’s influence is evident after looking at the statistics about underage drinking in the United States. According to the Center of Disease Control (CDC), in the past 30 days at least 39% drank while 22% binge drank and that’s only in high school. College campuses across the country are on an entirely different level when it comes to the abuse of underage alcohol consumption. This fact becomes apparent when you see sites such as Michigan State University’s very own “MSU Party Stories” twitter account, an avenue for students to share pictures of their drunken escapades and retrieve praise from fellow classmates and other college students across the country. Each week the account posts the “best” party stories of the week, leaving the decision for the rowdiest photo up to its 28.6 thousand followers. The photos range from alcohol consumption in the dorms to students passed out across campus to even some who had to be hospitalized. Similarly, there is a “B1G Party Stories” spin off which covers all schools in the Big Ten conference including, yet again, our very own MSU.</p>
+<p>It doesn’t stop there. Sites such as “Total Frat Move”, referring to fraternities in the Greek community, post endless articles condoning the consumption of alcohol. On the surface, their articles seem to be purely informational but their satirical commentary makes it evident that they find drunken jaunts and crazy parties to be the norm. Their growing fan base is often young pledges (freshman members in the Greek community) who are easily influenced and tend to want to fit in as much as possible in their new found brotherhood. Sites such as this and their sister site “Total Sorority Move” further adolescents justification of alcohol consumption simply because that it what they see their peers doing. Another popular website among youth is “Texts from Last Night” which features drunken and provocative conversations mostly being based around scandalous drunken rendezvous, often blatantly including the fact that the alcohol was consumed by someone who was not of age. Even the texts from of age participants are shared in a manner that seems to glorify partying and drinking to feeble minded youths that make up some of the sites most avid users.</p>
+<p>“Youths under 21 do use alcohol to socialize and drinking is a rite of passage signaling the onset of adulthood for many teens. For those who go to college, alcohol is readily available at parties given by older students, and a valued experience at university is attending parties where alcohol is served,” stated Rachel Black in her book Alcohol in Popular Culture: An Encyclopedia.</p>
+<p>The consequences for underage drinking are high and yet seem to go unnoticed due to the overshadowing from the movie, music, and television industries. These side effects include disruption of normal growth and sexual development, memory problems, and even death from alcohol poisoning. Alcoholism is also a prevalent problem that nearly 12 million Americans face yearly, according to the CDC. Adolescents who begin drinking before the age of 15 are four times more likely to become alcoholics than their counterparts who do not begin drinking until the age of 21. Our youth may be getting partially educated about these consequences in school, but it doesn’t seem to be stopping them in most cases.</p>
+<p>According to the CDC, alcohol is the number one drug problem in America. Every 30 minutes a person is killed in an alcohol-related car accident. Abuse of alcohol may not be an issue only limited to the youth in our country, but the best way to address a matter as large as it is to target the root of the problem. In this case, that would be aiming to help the future generations learn from the mistakes in their elders and attempting to stop drinking problems before they begin. Alcohol has had far too many bad influences on today’s society in general and now it is time to make a change.</p>
+<p>I have multiple potential solutions to the problem of underage alcohol consumption. My first would have to be the increase of alcohol education in public and private schools. Alcohol is included on a laundry list of topics discussed in health classes across the United States, but by the time students attend these courses in their later years of high school, many have already begun drinking. In my opinion, I find that a mandatory 8th grade class simply on alcohol consumption, its affects, and how/why to ignore its glorification in society today could definitely benefit adolescents. Sharing so much in depth information to students can help to prevent the typical invincible mindset that many teenagers seem to have. They tend to forget that at the end of the day, they are also human and mistreating such a powerful drug has horrible side effects that can be life threating.</p>
+<p>Another idea is for the government to further crack down on consequences after adolescents are caught drinking. As of now, many states have tickets they give out such as Minor in Possessions (MIPs). These MIPs are usually a large fine, a court date for the party and are often retracted from records after some form of community service or alcohol education course. After multiple MIPs, offenders may be put on probation. Although this seems like a good idea, MIPs clearly are not working. MIPs should entail much more effort from the adolescent that commits the crime and I believe every offender should immediately put on probation opposed to waiting for further offenses. Youths consuming alcohol are a risk to society, not just in their immediate presence or community, but as a whole. The fact that they can just attend a course and never be checked up on again is ridiculous in my opinion. Monthly or bi-monthly check-ups should be mandatory for these perpetrators.</p>
+<p>A third solution is that there should be limitations on what can be shown on television and in movies, especially those targeted to a market younger than the legal drinking age. Underage drinking should absolutely not allowed to be shown on any show or movie and there should be a point made that they are carded at any point they are drinking. Along with that, if someone is depicted underage drinking, they should be made an example of for the adolescents watching – whether it be a fictional DUI, car crash, or MIP, it should be known that underage alcohol consumption is illegal with no exceptions.</p>
+<p>My final proposal is that the United States should follow Europe’s approach and lower the drinking age to 18, if not younger. I’m aware this is much more extreme and could possibly even seem crazy, but one of the main attractions of alcohol to underage consumers is because it is off limits. It is known for adolescents to be rebellious, to push the limits and do what is not recommended of them. If that aspect is taken away, part of the “fun” of underage drinking will be diminished as well. In accordance with that, it gives parents the opportunity to better introduce their children to alcohol at home opposed to them being thrown into the big wide world of partying with no former knowledge. Drinking alcohol with family members would not only lessen the “cool-ness” per say of getting drunk, it would also teach the youth to learn their limits in a more responsible environment. There are many instances in which underage drinkers black out, pass out, or even have to go to the hospital due to alcohol poisoning because they are unaware of how much alcohol they are consuming. The current stigma on drinking forces them to experiment in unsafe situations with others who are uneducated about how much they can or should consume.</p>
+<p>In summation, it is extremely important for the youth in our society to know the facts. No matter how cool Project X, Rich Homie Quan, or “Total Frat Move” may make alcohol seem, mistreating it can and will lead to death among numerous other complications. Pop culture in this day in age needs to mature as does our youth. It’s time for the days of Justin Biebers reign to end and instead be replaced with knowledge and progress from adolescents in our nation. It’s time to underage American citizens to stop the abuse of alcohol.</p>
+<p>Works Cited
+1.	Black, Rachel. Alcohol in Popular Culture: An Encyclopedia. Ed. Rachel Black. 2010. 158-59. Web. 7 Feb. 2014.
+2.	Centers for Disease Control and Prevention (CDC). Alcohol-Related Disease Impact (ARDI). Atlanta, GA: CDC.
+3.	Smith GS, Branas CC, Miller TR. Fatal nontraffic injuries involving alcohol: a metaanalysis .Ann of Emer Med 1999;33(6):659–668.</p>
+
+
+
+      </div>
+    </div>
+    <footer>
+      <p>Copyright &copy; 2014 <a href="mailto:cdaniels@msu.edu">Dr. Christie Daniels</a> | <a href="http://www.msu.edu">Michigan State University</a></p>
+    </footer>
+  </div>
+  <p>&nbsp;</p>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+  <script type="text/javascript" src="js/image_fade.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('ul.sf-menu').sooperfish();
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,121 @@
+-<!DOCTYPE HTML>
+ -<html>
+ -
+ -<head>
+ -  <title>WRA 110 - Writing: Science and Technology </title>
+ -  <meta name="description" content="website description" />
+ -  <meta name="keywords" content="website keywords, website keywords" />
+ -  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+ -  <link rel="stylesheet" type="text/css" href="css/style.css" />
+ -  <!-- modernizr enables HTML5 elements and feature detects -->
+ -  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+ -</head>
+ -
+ -<body>
+ -  <div id="main">
+ -     <header>
+ -      <div id="logo">
+ -        <div id="logo_text">
+ -          <!-- class="logo_colour", allows you to change the colour of the text -->
+ -          <h1 class="logo_colour"><a href="index.html">WRA 110</a></h1>
+ -          <h2>Writing: Science and Technology</h2>
+ -        </div>
+ -      </div>
+ -<nav>
+ -        <ul class="sf-menu" id="nav">
+ -          <li class="selected"><a href="index.html">Home</a></li>
+ -          <li><a href="policies.html">Course Policies</a></li>    
+ -          <li><a href="#">Schedules</a>
+ -            <ul>
+ -              <li><a href="743schedule.html">Monday Schedule</a></li>
+ -              <li><a href="744schedule.html">Wednesday Schedule</a></li>
+ -            </ul>
+ -          </li>
+ -          <li><a href="#">Assignment Sheets</a>
+ -            <ul>
+ -              <li><a href="110-1.pdf">Lived Experiences Project</a></li>
+ -              <!--<li><a href="110-2.pdf">Cultural Analysis Proposal</a></li>
+ -              <li><a href="cultural_analysis.zip">Cultural Analysis Web Version Template</a></li>
+ -              <li><a href="110-3.pdf">Formal Research Project</a></li>
+ -              <li><a href="110-4.pdf">Multimedia Remix Project</a></li>
+ -              <li><a href="proposal.pdf">Remix Project Proposal</a></li>
+ -              <li><a href="110-5.pdf">Course Retrospective Project</a></li>-->
+ -            </ul>  
+ -          </li>
+ -          <li><a href="#">Resources</a>
+ -            <ul>
+ -              <li><a href="#">PowerPoints</a>
+ -                <ul>
+ -                  <li><a href="intro.pptx">Intro PowerPoint</a></li>
+ -                </ul> 
+ -              </li>
+ -              <li><a href="#">Prezis</a>
+ -              	<ul>
+ -            
+ -              		<li><a href="http://prezi.com/yktn5fsp4u3r/?utm_campaign=share&utm_medium=copy">Intro to Github</a></li>
+ -              		<!--<li><a href="http://prezi.com/0j7c8qitsgz9/?utm_campaign=share&utm_medium=copy">Visual Rhetoric</a></li>-->
+ -              	</ul>
+ -              </li>
+ -              <li><a href="#">Readings</a>
+ -              	<ul>
+ -              		<!--<li><a href="emig.pdf">Emig</a></li>
+ -              		<li><a href="brummett.pdf">Brummett</a></li>-->
+ -              	</ul>
+ -              </li>	
+ -            </ul>
+ -          </li>
+ -          <li><a href="#">Activities</a>
+ -            <ul>
+ -              <li><a href="proj1draftact.pdf">Lived Experiences Drafting Activity</a></li>
+ -              <!--<li><a href="activity1.html">In-Class Activity 1</a></li>
+ -              <li><a href="proj2draftact.pdf">Cultural Analysis Proposal Drafting Activity</a></li>
+ -              <li><a href="activity2.html">In-Class Activity 2</a></li>
+ -              <li><a href="proj3draftact.pdf">Formal Research Report Drafting Activity</a></li>
+ -              <li><a href="libact.doc">Library Activity</a></li>
+ -              <li><a href="activity3.htm">In-Class Activity 3</a>
+ -              <li><a href="worksheet.doc">Documentary Worksheet</a></li>-->
+ -            </ul>
+ -          </li>
+ -          <li><a href="links.html">Links</a></li>
+ -        </ul> 
+ -      </nav>
+ -    </header>
+ -    <div id="site_content">
+ -      <!--<div id="sidebar_container">
+ -        <div class="gallery">
+ -          <ul class="images">
+ -            <li class="show"><img width="450" height="450" src="images/1.jpg" alt="photo_one" /></li>
+ -            <li><img width="450" height="450" src="images/2.jpg" alt="photo_two" /></li>
+ -          </ul>
+ -        </div>
+ -      </div> -->
+ -      <div id="content">
+ -        <h1>Welcome to the course</h1>
+ -        <p><a href="wra110a.pdf"> WRA 110 - 743 Syllabus</a>
+ -        <br /><a href="wra110b.pdf">WRA 110 - 744 Syllabus</a></p>
+ -        <h3>Remix Project Assessment Memo</h3>
+         <p>The issue that we chose affected how we went about composing the project in multiple ways, specifically because we were lucky to have so much of our topic covered recently by a plethora of reliable media outlets. We found it important to incorporate the latest music videos and performances because they are fresh in the minds of our audience which makes them easy to recall as well as relate to. Including snippets of household names such as Miley Cyrus and Robin Thicke helped to better understand the issue because it shows how prevalent these scandalous acts are in today’s music industry and society. The largest problem that my group had to overcome was how we planned on organizing the interviews and videos to make sure that their timing made sense and was as impactful as possible for our audience.</p>
+<p>Our issue was selected because it is a commonly addressed issue but often is replaced by seemingly more important issues and brushed off to the side instead of being acknowledged the way that it should be. Along with that, a majority of our generation doesn’t seem to realize how much of an issue the sexual and degrading tones portrayed in some of today’s most popular music is. What I found to be the most challenging portion of the project was finding people our age that would be accepting to songs that were not degrading and who could appreciate music that erred on the side of appropriateness. I believe this was the most difficult because it tends to be young adults that stick more closely to the herd and like to follow social acceptance opposed to the “high road” associated with less profanity and sexual innuendo.</p>
+<p>Interaction within our group was strained throughout the duration of our project. Not all members attended class each week and along with that times that all four of us were simultaneously available were few and far between. Communication between us was tense and often it fell upon only one or two members to get the majority of the work done while others prioritized other classes or events before the completion of this project. Ultimately, we were able to all contribute to the end result in different ways but it was a stressful, tumultuous process that I don’t believe we necessarily benefited from. I believe that group projects have the potential to be successful as well as an insightful learning experience for everyone involved but in this circumstance, I would have preferred to either have done it alone or with a group in which I had selected. When choosing your own group, you typically know strengths and weaknesses of your classmates and can decipher whom you’d like to work with in that way. In this particular scenario I was not familiar with any of my group members before the project and it led to a large lack of communication and an air of hostility.</p>
+<p>Our work was not planned to our full advantage and if given the opportunity to redo the process, I definitely would have spaced out the completion of different aspects of the assignment much differently than we did. I would have planned out everyone’s responsibilities from the get-go opposed to the “play it by ear” method that we employed which lead to stress and frustration in the long run. I also would have made sure that we were all on the same page when it came to the format of the video. I thought that we were but there seemingly were some miscommunications throughout the process of recording and editing which led to the video not living up to its full potential as we had intended.</p>
+<p>I’d say the most effective aspect of our documentary is our incorporation of well-known figures in pop culture today. It provides a familiar and relatable example that’s seen in the everyday lives of a majority of our audience which can help to make them realize how big of an actual problem it is to be exposing current and future generations to such racy content. A majority of our design decisions were made as a team after much decision and weighing all potential options before settling on the most effective. We each contributed ideas hand in hand with criticism and built off each other’s concepts to create the best possible design for our project.</p>
+
+ -      </div>
+ -    </div>
+ -    <footer>
+ -      <p>Copyright &copy; 2014 <a href="mailto:cdaniels@msu.edu">Dr. Christie Daniels</a> | <a href="http://www.msu.edu">Michigan State University</a></p>
+ -    </footer>
+ -  </div>
+ -  <p>&nbsp;</p>
+ -  <!-- javascript at the bottom for fast page loading -->
+ -  <script type="text/javascript" src="js/jquery.js"></script>
+ -  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+ -  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+ -  <script type="text/javascript" src="js/image_fade.js"></script>
+ -  <script type="text/javascript">
+ -    $(document).ready(function() {
+ -      $('ul.sf-menu').sooperfish();
+ -    });
+ -  </script>
+ -</body>
+ -</html>

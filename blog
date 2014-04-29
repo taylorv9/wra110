@@ -1,0 +1,150 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>WRA 110 - Writing: Science and Technology </title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+</head>
+
+<body>
+  <div id="main">
+     <header>
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1 class="logo_colour"><a href="index.html">WRA 110</a></h1>
+          <h2>Writing: Science and Technology</h2>
+        </div>
+      </div>
+<nav>
+        <ul class="sf-menu" id="nav">
+          <li class="selected"><a href="index.html">Home</a></li>
+          <li><a href="policies.html">Course Policies</a></li>    
+          <li><a href="#">Schedules</a>
+            <ul>
+              <li><a href="743schedule.html">Monday Schedule</a></li>
+              <li><a href="744schedule.html">Wednesday Schedule</a></li>
+            </ul>
+          </li>
+          <li><a href="#">Assignment Sheets</a>
+            <ul>
+              <li><a href="110-1.pdf">Lived Experiences Project</a></li>
+              <!--<li><a href="110-2.pdf">Cultural Analysis Proposal</a></li>
+              <li><a href="cultural_analysis.zip">Cultural Analysis Web Version Template</a></li>
+              <li><a href="110-3.pdf">Formal Research Project</a></li>
+              <li><a href="110-4.pdf">Multimedia Remix Project</a></li>
+              <li><a href="proposal.pdf">Remix Project Proposal</a></li>
+              <li><a href="110-5.pdf">Course Retrospective Project</a></li>-->
+            </ul>  
+          </li>
+          <li><a href="#">Resources</a>
+            <ul>
+              <li><a href="#">PowerPoints</a>
+                <ul>
+                  <li><a href="intro.pptx">Intro PowerPoint</a></li>
+                </ul> 
+              </li>
+              <li><a href="#">Prezis</a>
+              	<ul>
+            
+              		<li><a href="http://prezi.com/yktn5fsp4u3r/?utm_campaign=share&utm_medium=copy">Intro to Github</a></li>
+              		<!--<li><a href="http://prezi.com/0j7c8qitsgz9/?utm_campaign=share&utm_medium=copy">Visual Rhetoric</a></li>-->
+              	</ul>
+              </li>
+              <li><a href="#">Readings</a>
+              	<ul>
+              		<!--<li><a href="emig.pdf">Emig</a></li>
+              		<li><a href="brummett.pdf">Brummett</a></li>-->
+              	</ul>
+              </li>	
+            </ul>
+          </li>
+          <li><a href="#">Activities</a>
+            <ul>
+              <li><a href="proj1draftact.pdf">Lived Experiences Drafting Activity</a></li>
+              <!--<li><a href="activity1.html">In-Class Activity 1</a></li>
+              <li><a href="proj2draftact.pdf">Cultural Analysis Proposal Drafting Activity</a></li>
+              <li><a href="activity2.html">In-Class Activity 2</a></li>
+              <li><a href="proj3draftact.pdf">Formal Research Report Drafting Activity</a></li>
+              <li><a href="libact.doc">Library Activity</a></li>
+              <li><a href="activity3.htm">In-Class Activity 3</a>
+              <li><a href="worksheet.doc">Documentary Worksheet</a></li>-->
+            </ul>
+          </li>
+          <li><a href="links.html">Links</a></li>
+        </ul> 
+      </nav>
+    </header>
+    <div id="site_content">
+      <!--<div id="sidebar_container">
+        <div class="gallery">
+          <ul class="images">
+            <li class="show"><img width="450" height="450" src="images/1.jpg" alt="photo_one" /></li>
+            <li><img width="450" height="450" src="images/2.jpg" alt="photo_two" /></li>
+          </ul>
+        </div>
+      </div> -->
+      <div id="content">
+        <h1>Welcome to the course</h1>
+        <p><a href="wra110a.pdf"> WRA 110 - 743 Syllabus</a>
+        <br /><a href="wra110b.pdf">WRA 110 - 744 Syllabus</a></p>
+        <h1>Blogs</h1>
+        <h1>Blog #1</h1>
+<p> The video is attempting to achieve multiple things. First, Randy is sharing with us the heart-wrenching story of his Uncle Ronnie as well as the loss that his family had to endure after his sudden death. Even though they were consistently trying to suppress his sexuality, it was clear that they still loved and cherished him as an important member of their family. Potts also used this video to convey his distaste for the fact that although his uncle was someone he could look up to in many ways, he simultaneously detests the fact that he ultimately committed suicide opposed to sticking through it for his family and young children. Potts is trying to persuade the audience to realize just truly how hurtful gay-shaming is as well as how impossibly difficult it can be for some people to overcome to constant hatred and bullying that they are going through. Along with sharing the message with the audience he wanted to show other struggling homosexuals that even though they may feel as though they are isolated, there are many people who are on their side and going through similar hard times. He definitely achieves his purpose combining his passionate speech and visual rhetoric to leave a lasting and impressive impact on those who watch his speech. Potts has a way of enthralling the viewer and capturing their emotions without being too overwhelming. The message is structured well because it starts out slowly and gets progressively more and more emotional. Soon you’re completely involved in his speech without even realizing that it was happening. The build up with the words at the beginning though did last long and it began to lose me only because I got tired of having to keeping reading but it wasn’t horrible. This can assist me with editing my Lived Experiences project because it gives me a good sense of how to connect emotions with content without being too overwhelming and losing the audience. </p>
+<h2>Blog #2</h2>
+<p> The video targets a plethora of different viewers but is in my opinion most pointedly targeted at the adolescents of our generation who take use of technology to the next level. It’s known that the “Y2K” generation has a technology addiction but growing up in a day in age in which all of the knowledge in the world is at your fingertips would be overwhelming to any generation graced with so much power. This episode of South Park portrayed the worst of the worst – the people who let technology take over their lives completely. This type of person in a rare breed but still, the amount of people who fall into this category is staggering and disturbing. The social issue of technology addiction is a difficult one to tackle because in today’s society it is borderline impossible to fully function without at least some mode of technology, especially being a college student at one of the world’s best universities. It is borderline impossible to get by without a smart phone or laptop. Still with this being said, people often take advantage of the opportunities given them and don’t necessarily use this equipment in the most responsible ways. One of the worst things to stem from the over-popularization of technology is the internet and the ever-growing trend of cyberbullying, as depicted in this episode by the character that went around pointlessly murdering others and ultimately ruining the game for all. Bullying has always been a problem especially in adolescence but being a given a new platform to perform such crude acts where you can even go so far as to be anonymous has really taken a toll on today’s society. Ultimately though I believe the creators of South Park are attempting to shed light through a comedic outlet on the topics of technology obsession and cyber-bullying by showing just how petty both things really are.</p>
+<h3>Blog #3</h3>
+<p> The Imported from Detroit advertisement is easily one of the most inspirational and hard-hitting commercials out there right now. It didn’t ask you to pity Detroit or try to twist it to seem deceivingly glamorous, it showed the city how it truly is. Along with that though, it shared with the audience how unbelievably strong, determined, and capable we are as a community to come back from all the struggles that we’ve been facing and to rise again. The inclusion of Eminem was ingenious – incorporating a superstar and house hold name that is widely respected for his talent would be enough in itself but his close ties with the city made it even more impactful. This is because seeing that someone who grew up under such difficult and tumultuous circumstances can still succeed and find some sort of hope in city that the rest of the country chalks up to be a loss is inspiring and can shed a different light on the difficulties that Detroit has recently been facing.  For me though, the best part was the voiceover. I say this because it commanded attention and spoke fluidly and swiftly. He talked slowly enough that you were hanging on to his every last word but kept a nice pace with the imagery of the commercial. He spoke with confidence and everything he said was very blunt; he had no shame in referencing the hardships we have recently been going through while simultaneously making it clear that we are in the process of coming back better than ever. In all, the commercial was brilliant and I love the way it honestly yet lovingly showed the Motor City.</p> 
+<h4>Blog #4</h4>
+<p> Today I worked on my Lived Experiences paper. I didn’t realize how much my time at ‘the Tower’ affected me both emotionally and mentally. It’s crazy to see also how quickly I am now able to learn new programs after I learned so many of the basics from the original Photoshop programs that I used. I absolutely love writing this piece because not only do I get to share my experiences from a learning and technological standpoint but I also get to write about a topic that has been really difficult for me to grasp since Mr. Nardone’s passing. It’s nice to have this outlet kind of as a memorial to him in my own personal way, as silly as that may seem. I didn’t get to appreciate all of his lessons and material to their full extent while he was alive and this opportunity to delve into the world of technology which he once loved so much seems only appropriate. Who knew that I would be able to honor him in such a unique and fruitful way. Writing this makes me miss designing though as well as using all of the Adobe programs that I once was so familiar with. It makes me think about how little I remember about them and I hope that one day if I ever need to be able to function them again that I will be able to hone my skills again. I feel like programs like that can be picked back up fairly easily, similar to riding a bike after a long period of time.</p>
+<h5>Blog #5</h5>
+<p> Right now I’m trying to pick a topic for my Cultural Analysis paper. It’s difficult because there are so many different social issues in our generation that could be interesting to right about but I also don’t want to end up with a complete cliché that has been covered time and time again. I feel like there are also so many problems that pop culture is blamed for when in reality these have been issues from generation to generation, they are just regarded more publicly now instead of hidden behind closed doors like they were when our parents were our age. I’ve considered writing about how casually pop culture is in regarding to sex and how often they show it especially in regards to high school and college crowds. It makes it seem like it’s not a sacred and emotional act. Also swearing is very common place on most TV networks, even those that can be accessed by younger children. Words such as “hell”, “bitch” and “shit” can be used with no regard on basic cable channels whereas “fuck” and other more vulgar words can be used on other not cable stations such as HBO and SHO. This portrays to adolescents that these swear words are acceptable and in some cases even “cool” depending on the channel and show they are depicted on. Along with that, rap and hip-hop is littered with swears. Radio edits help this in a sense because they attempt to bleep out anything inappropriate but some songs have so many that half of the lyrics end up as a pause because they are unsuitable for the majority of their audience. </p>
+<h6> Blog #6</h6>
+<p> I finally picked my topic for my Cultural Analysis paper. After much debate and many options I decided to go with how pop culture affects underage abuse of alcohol. This hits really close to home for me simply because of how prevalent binge and underage drinking are on college campuses and how it’s basically a social norm to drink opposed to stay sober. I’m not sure if it’s just the people that I hang out with or college culture as a whole but it seems as though drinking isn’t even regarded as an illegal activity. Every Thursday, Friday and Saturday nights there are students scattered all across campus casually drinking massive amounts of alcohol, even to the point of blacking out or passing out and it seems as though police and of-age pupils turn a blind eye to the activity. The amount of underage drinking and drug-use that is referenced in pop culture only encourages these adolescents to keep up their bad habits. On top of that, seeing popstars such as Justin Bieber being arrested for DUI’s may seem like it would be a turn off for teens but at the same time having media outlets flash pictures of a kid that millions idolize consuming alcohol there are sure to be many kids who take that as condoning underage drinking of their own. Simply putting the idea of drinking underage out there is bound to send many kids to the bottle especially with some of the most popular songs on the radio being entitled “Turn Down For What” and totally revolved around drinking.</p>
+<h7>Blog #7</h7>
+<p>It is time for me to get started on our Formal Research Project and I’m at a loss of what to write about. It's hard because we are supposed to discuss what we are majoring in but I want to switch my major. Right now I am humanities pre-law but I don’t like being in the College of Arts and Letters or where my major is heading. I was considering applying for James Madison and going pre-law there but I came to the realization that although I one day want to attend law school I should probably graduate college with a degree in something that I can specialize in. Now I’ve turned my sights towards the business school and majoring in supply chain management. A business degree appeals to me mostly because it is extremely versatile and can be used in a plethora of different ways and on top of that pursuing law school would open a lot of doors in the job market. The main thing standing in my way though is acceptance to the business school. I saw this because it is an extremely competitive and somewhat grueling process. Math is not my strong suit and in order to apply for the business school, I have to excel in accounting and micro and macro-economics. In a nutshell, I am at a loss as to what to write this paper about so hopefully I’ll have an euphony as to what I want to do with my life within the next 24 hours because that would make this whole process, as well as the next 3 years, significantly easier.</p>
+<h8>Blog #8</h8>
+<p>Working on this research paper is a total drag and significantly more difficult than I had anticipated. Picking a topic was a struggle in itself but actually following through with it is seeming to pose problems of their own. Not only do I not know what direction to take this, I can’t seem to find a topic of the ones I narrowed down that I am passionate enough to pursue and actually enjoy. This is a definite change of pace from the previous projects that we have completed for this class where I actually thoroughly enjoyed looking into them and writing them. That might partially have to do with the fact that it involves more in-depth research which is clearly not nearly as pleasant as the casual research that I’ve done on past things. Either way, finally choosing a topic to pursue was a big step and I’m glad that I’ve at least gotten that far in the process, as petty as that may sound. Beginning the researching process is grueling though and not my ideal way of spending a Sunday. I am, however, intrigued to begin the interviewing process. I’ve decided to write about supply chain management. I am going to be interviewing a professor as well as my cousins roommate who is a 25 year old MSU grad living in Chicago and pursuing her line of work so I’m really excited to get the opportunity to get their take on the major. It should be interesting to see if their opinions and experiences over lap and what got them into supply chain in the first place.</p>
+<h9>Blog #9</h9>
+<p>So I just conducted the interviews with Professor Campbell and Taylor Graybiel, the MSU grad I previously mentioned. Campbell was not as insightful as I had expected because although he is a prof in the business school, he doesn’t have too much directly to do with supply chain as was my impression from the get go. He did however provide me with a lot of insight as to the workings of the business school and the criteria necessary to get in. He also elaborated on why it’s significantly more impressive to graduate from the business school than through a normal program. I learned that you can only major in supply chain at MSU if you do so through the business school and along with that, the requirements have gotten significantly harder in recent years due to the large amounts of students applying to be a part of it. It worries me that my grades will not be up to par with the requirements they have but I guess only time will tell. Taylor’s interview was completely different as we have a close relationship and she is very passionate about the topic of supply chain. She currently works for Motorola, a position she was offered directly after graduating from MSU almost 4 years ago. She explained to me how much easier the requirements once were for getting accepted to the business school but they still were rigorous in comparison to other schools and majors. Her reasoning for choosing supply chain was the combination of the fact that it interested her with the fact that graduates were able to receive well paying positions upon leaving school unlike other majors. Talking with her about it definitely reassured my passion for the major and it was a really eye-opening experience that I’m glad this project gave me the opportunity to have.</p>
+<h10>Blog #10</h10>
+<p> Today we were assigned our groups for the Multimedia Remix Project. Only three out of four of our members were there but I’d like to think we got a good start on what we want our project to look like and we are taking steps to get there. We chose a topic, how music affects our generation, because Kara, a girl in my group, wrote her Cultural Analysis project on it. I find it interesting and I hope we can execute it in the way we discussed today. We decided we are going to interview people from each age range in an attempt to get multiple generations opinions on if music is affecting our culture at all and if so if it is in an adverse or positive light. We’re worried about how were going to find someone from an older generation but with a campus the size of ours I’m sure one of the four of us will manage to think of someone that we can interview. As of right now, the biggest problem we are facing is a lack of equipment (i.e. camera and editing programs) to record the project and put it together on. We’ve all been asking around to see if someone has stuff to lend to us but we have yet to be successful. Luckily we have two weeks to complete this. Hopefully we can get in contact with our fourth member before it’s too late. We split up the portions of the proposal and lucky him got out of doing anything for it but it’s not like it requires an amazing amount of effort to complete.</p>
+<h11>Blog #11</h11>
+<p> Yesterday we were supposed to meet in class but unfortunately I couldn’t attend due to a family emergency. Apparently only two of my group members showed up, one being the student who didn’t attend the first week. That was good in the sense that he was able to be caught up to speed and didn’t miss another week of progress but also frustrating that we didn’t get to move on any further with our project. We then decided to meet at the library later in the week to conduct some interviews on a friend’s camera that I was able to acquire. Unfortunately due to conflicting schedules, only three of us are going to be able to be there opposed to the entire group again but I guess there’s nothing that we can really do about it. I’ll finish this blog entry after that meeting.<br>
+<br><br>
+So the three of us were able to meet at the library but unfortunately it was raining so we did not have the ability to get much of anything done since the bulk of the project is editing the content we had yet to record. We decided to meet again tomorrow but now only two of us are able to get together due to even more scheduling conflicts. There’s definitely some Murphy’s Law going on with this group right now. Hopefully our results are better after our recording session tomorrow. We are going to be walking up to a record store on Grand River to interview the owner and hopefully get her take on how she thinks music has evolved over the generations.</p>
+<h12>Blog #12</h12>
+<p>Finally done with our Remix Project! It was somehow even more difficult after that point. The interview with the woman at the record store was not nearly as successful as we had hoped – we assumed her answers to the questions we had for her would go in a completely different direction than they ended up going. Along with that, the communication within our group was horrendous. No one knew what was finished and two of my group members avoided answering the group chat so we were unable to get a hold of them. This led to a lot of frustration, anxiety, and unfair workloads which made this project a lot less enjoyable. In the end, we were able to complete the project on time but don’t ask me how because it’s still a total mystery to me. I really did not enjoy working with a group, especially one full of strangers. I understand the concept of wanting to meet new people and expand our horizons in ways we probably wouldn’t have been able to had we chosen friends in the class but I did not appreciate getting paired with people that were so unmotivated and not helpful. One of my group members spent ALL of our final class time socializing as the other three of us were attempting to fix technical difficulties. I’ll stop complaining now, I just really hope I don’t encounter a group like this in my future studies here at MSU. On the bright side, Kara and became friends out of it so I guess it wasn’t all a waste.</p>
+<h13>Blog #13</h13>
+<p>Now begins our Course Retrospective Project. I like the concept that I get to pass down advice to future students because there are definitely a couple things that I think are important to share about this course. I’m not necessarily sure how I’m going to organize it quite yet but I am excited to be able to get across my feelings to incoming WRA-ers. I worked on Codecademy for a while today and I must say it is probably the most fun thing I’ve had to do for a class. It’s fairly time consuming but it’s not really all that difficult of work so I can’t say that I mind all that much. I remember back when I had a myspace and I attempted to code my layouts, I had literally no idea what I was doing and just took the codes as a bunch of gibberish. I’ll admit the coding can get hard as you add new steps but it’s mostly just because it can be hard to remember everything at once since you learn it in such segregated chunks. I’m mostly just glad I’m not completely procrastinating it to the last minute like I’ve done with some other assignments in this course. It’s a good feeling to be able to actually complete something before its due date and be ahead of the game for once. I’m taking a CSE course next year and I wonder if it’s going to be anything similar to this. I’m excited to see if there are any similarities because it’d be nice to be a step ahead of the game in that aspect as well.
+<h14>Blog #14</h14>
+<p>I signed up for my final project team today in class. I am in the web design group because it was the only group with open slots left. I’m in all honesty a little bit nervous to see how it goes because although I am doing well at Codecademy I don’t have any “real world” experience. I feel like being a part of the actual design team requires more knowledge than knowing basic HTML but the rest of my group seems experienced and helpful so I’m hoping they can teach me more or help me. Like I mentioned in my previous entry, I will be taking a CSE course, so who knows. This could potentially help me out with that in the long run as well so I’m just going to try to look at the positive side of being placed in this group. It’s also crazy to me that we have already finished with this class for the semester. I feel like I just started! Time in college flies by so much faster than in elementary, middle, and high schools and I have still yet to become completely accustomed to that yet. I’m glad to say that I’ve been keeping up with these weekly blogs, however painful it may seem at the time. This has been a really great class, minus the false gunman threat that we encountered that one week – that was definitely a scary experience. Nonetheless, I’m excited to be working on this last project and hoping it turns out better than my last group experience.</p>
+
+<h15>Blog #15</h15>
+<p>Just completed our final assignment! I didn’t help as much as I had hoped that I could with the coding but the guys in my group definitely taught me a lot and I was able to attempt a few new things that I wouldn’t have been able to do otherwise. I mainly focused on the writing portion of our section and completed the intro for us. I’ve learned so much about coding during this course and I think that’s what I’m most going to take away from this experience. As I previously stated Codecademy was a really fun and entertaining experience for me. This class being over is very bittersweet because the assignments were definitely more interesting than I’m sure they would be if I were to have taken a different WRA. I’m really glad that I was able to take this course and be as involved as I was. Although not everything worked out in my favor, there were definitely quite a few things that I took away outside of just material. I learned how to deal with a group that I didn’t get along with, figured out a major that I potentially could be interested in pursuing and was introduced to the interesting world that is coding. I hope students read my final assignment coming in next year and are persuaded to take this class and enjoy it as much as I did. This course was short but sweet and I’m glad I got to be a part of it.</p>
+
+
+      </div>
+    </div>
+    <footer>
+      <p>Copyright &copy; 2014 <a href="mailto:cdaniels@msu.edu">Dr. Christie Daniels</a> | <a href="http://www.msu.edu">Michigan State University</a></p>
+    </footer>
+  </div>
+  <p>&nbsp;</p>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+  <script type="text/javascript" src="js/image_fade.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('ul.sf-menu').sooperfish();
+    });
+  </script>
+</body>
+</html>
